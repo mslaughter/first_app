@@ -1,5 +1,5 @@
 # Ruby on Rails Tutorial: first application
 
 This is the first application for
-[*Ruby on Rails Tutorial*]
-by [Melissa Slaughter]
+*Ruby on Rails Tutorial*
+by Melissa Slaughter
